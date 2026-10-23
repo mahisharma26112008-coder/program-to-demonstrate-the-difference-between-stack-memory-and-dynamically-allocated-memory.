@@ -1,0 +1,1 @@
+# program-to-demonstrate-the-difference-between-stack-memory-and-dynamically-allocated-memory.
